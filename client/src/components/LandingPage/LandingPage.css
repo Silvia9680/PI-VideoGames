@@ -1,0 +1,21 @@
+
+    .Landing{
+        background-image: url('../media/IronMan.png');
+        height: 100vh;
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        display: flex;
+        justify-content: center;        
+    }
+
+    .btn{
+        background-color: rgb(241, 52, 52);
+        border-radius: 50%;
+        
+        width: 60px;
+        height: 60px;
+        position: absolute;
+        left: 9%;
+        top: 290px;
+    }
+    
