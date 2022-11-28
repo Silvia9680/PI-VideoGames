@@ -1,0 +1,24 @@
+title{
+    font-family:'fantasy';
+    color: white;
+} 
+
+.genero{
+    font-family: 'fantasy';
+    color: white;
+    font-size: large;    
+}
+
+.card{
+    background-color: transparent;
+    /* border: 5px solid rgb(126, 109, 109); */
+    padding-right: 0.75rem;
+    padding-left: 0.75rem;
+    cursor:crosshair;
+}
+
+.card:hover{
+    transform: scale(1.1);
+    box-shadow: 0px 0px 30px -15px rgba(0, 0, 0, 0.5);
+    color: red;
+}
