@@ -1,0 +1,21 @@
+
+    .Landing{
+        background-image: url('../media/Wallpaper-pacman.jpg');
+        height: 100vh;
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        display: flex;
+        justify-content: center;        
+    }
+
+    .btn{
+        font-family:'Audiowide', sans-serif;
+        font-size: large;
+        background-color: rgb(241, 52, 52);
+        width: 80px;
+        height: 80px;
+        position: absolute;
+        left: 46%;
+        top: 810px;
+    }
+    
