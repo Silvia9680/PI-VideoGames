@@ -1,0 +1,27 @@
+.fondo{
+    background-image: url('../media/peakpxCard.jpg');
+    background-size: cover;
+    height: 100vh;
+}
+
+.title {
+    color: white
+}
+
+.description{
+    color: white;
+}
+
+.btn2 {
+    background-color: rgb(19, 224, 112);
+    font-family: 'Audiowide', sans-serif;
+    font-size: larger;
+    width: max-content;
+}
+
+.btn3{
+    background-color: rgb(235, 235, 12);
+    font-family: 'Audiowide', sans-serif;
+    font-size: larger;
+    width: max-content;
+}
