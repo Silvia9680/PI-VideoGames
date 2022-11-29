@@ -1,0 +1,47 @@
+.order {
+	font-family:'Audiowide', sans-serif;
+	font-size:15px;
+    border:2px solid #a1a1a1;
+	padding:10px 40px; 
+	background:#c449af;
+	width:160px;
+	border-radius:20px;
+    /* background-color: rgb(233, 171, 55); */
+
+}
+
+.rating{
+	/* @import url("https://fonts.googleapis.com/css?family=Audiowide|Sofia|Trirong"); */
+    font-family:'Audiowide', sans-serif;
+    font-size:15px;
+    border:2px solid #a1a1a1;
+	padding:10px 40px; 
+	background:#c449af;
+	width:160px;
+	border-radius:20px;
+    /* background-color: rgb(226, 192, 128); */
+}
+
+.origin{
+	font-family:'Audiowide', sans-serif;
+	font-size:15px;
+    border:2px solid #a1a1a1;
+	padding:10px 40px; 
+	background:#c449af;
+	width:160px;
+	border-radius:20px;
+    /* background-color: rgb(233, 171, 55); */
+}
+
+.genre{
+	font-family:'Audiowide', sans-serif;
+	font-size:15px;
+    border:2px solid #a1a1a1;
+	padding:10px 40px; 
+	background:#c449af;
+	width:160px;
+	border-radius:20px;
+    /* background-color: rgb(226, 192, 128); */
+}
+
+
