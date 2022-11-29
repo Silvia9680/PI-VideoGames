@@ -1,0 +1,26 @@
+.fondo{
+    background-image: url('../media/peakpx.jpg');
+    background-size: cover;
+    height: 165vh;
+    
+}
+
+
+.Card {
+    
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 190px);
+    gap: 40px;
+    padding: 40px;
+    justify-content: center;
+    
+}
+
+.btn1 {
+    background-color: rgb(50, 148, 79);
+    width: 150px;
+    height: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    font-weight: bold;
+}
