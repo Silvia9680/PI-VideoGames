@@ -1,0 +1,15 @@
+.search{
+    border:2px;
+	padding:10px 40px; 
+}
+
+.input{
+    border:2px;
+	padding:10px 40px; 
+    width:150px;
+	border-radius:20px;
+}
+.button{
+    font-size:x-large;
+    background-color: red;
+}
