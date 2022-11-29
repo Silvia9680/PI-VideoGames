@@ -1,0 +1,33 @@
+.crear{
+    background-image: url('../media/peakpxCrear.jpg');
+    height: 100vh;
+}
+
+.h1{
+    font-family: 'Audiowide', sans-serif;
+    color: rgb(231, 224, 224);
+}
+ p{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    color: azure;
+
+}
+
+.submit-btn{
+    background-color: yellow;
+}
+
+.btn2 {
+    background-color: rgb(19, 224, 112);
+    font-family: 'Audiowide', sans-serif;
+    font-size: larger;
+    width: max-content;
+}
+
+.btn3{
+    background-color: rgb(235, 235, 12);
+    font-family: 'Audiowide', sans-serif;
+    font-size: larger;
+    width: max-content;
+}
